@@ -1,0 +1,56 @@
+{
+    "projects": [
+        {
+            "id" : 0,
+            "project_name" : "Random Quote Generator",
+            "description" : "This page displays random quotes than change to the next quote every 2.5 seconds.",
+            "technologies" : ["HTML", "CSS", "Javascript"],
+            "live_link" : "https://youtr5r.github.io/techdegree-project-1/",
+            "github_link" : "https://github.com/youtr5r/techdegree-project-1",
+            "image_urls" : ["/static/images/firstpage550_550.png", "/static/images/firstpage1200_550.png"] 
+        },
+
+        {
+            "id" : 1,
+            "project_name" : "List Pagination and Filtering",
+            "description" : "Use pagination to enhance the usability of a web page.",
+            "technologies" : ["HTML", "CSS", "Javascript"],
+            "live_link" : "https://youtr5r.github.io/Project-2/",
+            "github_link" : "https://github.com/youtr5r/Project-2",
+            "image_urls" : ["/static/images/secondpage550_550.png", "/static/images/secondpage1200_550.png"]
+        },
+
+        {
+            "id" : 2,
+            "project_name" : "Interactive Form",
+            "description" : "Create a form using jquery that validates input and indicates errors for invalid inputs.",
+            "technologies" : ["HTML", "CSS", "Javascript"],
+            "live_link" : "https://youtr5r.github.io/techdegree-project-3/",
+            "github_link" : "https://github.com/youtr5r/techdegree-project-3",
+            "image_urls" : ["/static/images/thirdpage550_550.png", "/static/images/thirdpage1200_550.png"]
+        },
+
+        {
+            "id" : 3,
+            "project_name" : "OOP Game",
+            "description" : "Create a phrase finder game using Classes. This game is made up of an array of phrases that is randomly generated once the start game button is clicked.",
+            "technologies" : ["HTML", "CSS", "Javascript"],
+            "live_link" : "https://youtr5r.github.io/Project-4/",
+            "github_link" : "https://github.com/youtr5r/Project-4",
+            "image_urls" : ["/static/images/fourthpage550_550.png", "/static/images/fourthpage1200_550.png"]
+        },
+
+        {
+            "id" : 4,
+            "project_name" : "Public API Requests",
+            "description" : "Build an app that will use a random user generator API to generate 12 random eployees. Once you click an individual employee a modal window should open.",
+            "technologies" : ["HTML", "CSS", "Javascript"],
+            "live_link" : "https://youtr5r.github.io/Project-5/",
+            "github_link" : "https://github.com/youtr5r/Project-5",
+            "image_urls" : ["/static/images/lastpage550_550.png", "/static/images/lastpage1200_550.png"]
+        }
+
+    ]
+}
+
+        
